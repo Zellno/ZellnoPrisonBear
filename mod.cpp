@@ -1,0 +1,10 @@
+name = "Zellno Prison Bear";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+tooltip = "A resilient vanilla bear variant";
+overview = "An isolated DayZ bear classname with increased global resistance.";
+action = "https://github.com/Zellno/ZellnoPrisonBear";
+author = "Zellno";
+version = "0.3.0";

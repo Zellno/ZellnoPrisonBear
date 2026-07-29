@@ -1,0 +1,26 @@
+# Generated builds and backups
+/build/
+/backups/
+
+# DayZ binaries and signing material
+*.pbo
+*.ebo
+*.bisign
+*.bikey
+*.biprivatekey
+
+# DayZ logs and crash reports
+*.log
+*.rpt
+*.mdmp
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors and temporary files
+.vscode/
+.idea/
+.env
+*.tmp
+*~
