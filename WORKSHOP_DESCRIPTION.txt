@@ -1,0 +1,50 @@
+[h1]Zellno Prison Bear[/h1]
+
+Zellno Prison Bear is a small config-only modification for DayZ that provides an independent, resilient variant of the vanilla brown bear.
+
+It was designed for controlled encounters, particularly around the Black Market area on Prison Island in Chernarus.
+
+[h2]Classname[/h2]
+[code]Animal_UrsusArctos_ZellnoPrison[/code]
+
+[h2]Features[/h2]
+[list]
+[*]Independent classname derived from the vanilla brown bear.
+[*]Does not modify vanilla bears globally.
+[*]Vanilla model, textures, animations, sounds and AI.
+[*]Vanilla movement, attacks, skinning resources and yields.
+[*]Global Health: 15,000.
+[*]Global Blood: 50,000.
+[*]Global Shock: 5,000.
+[*]No custom or third-party assets.
+[/list]
+
+[h2]Requirements[/h2]
+[list]
+[*]DayZ.
+[*]The mod must be loaded by both the server and connecting clients.
+[/list]
+
+PvZmoD Spawn System is not a dependency. The classname can be spawned with VPPAdminTools, mission scripts or compatible event and spawn systems.
+
+Static-spawn coordinates are intentionally not included because navigation, containment and balance depend on each server's environment.
+
+[h2]Source Code[/h2]
+[url=https://github.com/Zellno/ZellnoPrisonBear]GitHub — Zellno Prison Bear[/url]
+
+The source repository contains the original configuration and documentation. Compiled PBOs, signatures and signing keys are not distributed through GitHub.
+
+[h2]Monetization Permission[/h2]
+
+Zellno permits the use of Zellno Prison Bear on monetized DayZ servers, provided that the server operator is registered, approved and listed under Bohemia Interactive’s DayZ Server Monetization program and complies with all applicable rules.
+
+This permission applies only to the original content provided by Zellno in Zellno Prison Bear. It does not grant permission to monetize DayZ itself or any third-party modification or content used alongside this mod.
+
+[list]
+[*][url=https://www.bohemia.net/monetization]Official monetization rules[/url]
+[*][url=https://www.bohemia.net/monetization/approved/dayz]Approved DayZ servers[/url]
+[/list]
+
+[h2]Disclaimer[/h2]
+
+This is an unofficial community modification for DayZ. It is not affiliated with, authorized by, or endorsed by Bohemia Interactive a.s. DAYZ is a registered trademark of Bohemia Interactive a.s.
