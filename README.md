@@ -91,3 +91,20 @@ respective rights holders. See [THIRD_PARTY.md](THIRD_PARTY.md).
 This is an unofficial community modification for DayZ. It is not affiliated
 with, authorized by, or endorsed by Bohemia Interactive a.s. DAYZ is a
 registered trademark of Bohemia Interactive a.s.
+
+## Monetization Permission
+
+Zellno permits the use of Zellno Prison Bear on monetized DayZ servers,
+provided that the server operator is registered, approved and listed under
+Bohemia Interactive's DayZ Server Monetization program and complies with all
+applicable rules.
+
+This permission applies only to the original content provided by Zellno in
+Zellno Prison Bear. It does not grant permission to monetize DayZ itself or
+any third-party modification or content used alongside this mod.
+
+Server operators are responsible for obtaining any additional permissions
+required by the authors of other mods installed on their servers.
+
+- [Official monetization rules](https://www.bohemia.net/monetization)
+- [Approved DayZ servers](https://www.bohemia.net/monetization/approved/dayz)
